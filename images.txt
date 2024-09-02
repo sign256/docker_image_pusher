@@ -9,5 +9,5 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 #ghcr.io/benphelps/homepage
 #ghcr.io/benphelps/homepage:latest
-jellyfin/jellyfin
+jellyfin/jellyfx
 gotson/komga
